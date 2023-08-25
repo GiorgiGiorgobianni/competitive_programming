@@ -20,6 +20,5 @@ int main(){
     if (b<6) cout<<"NO";
 
 }
-
-//https://codeforces.com/contest/96/submission/180247763
+https://codeforces.com/contest/96/problem/A
 
